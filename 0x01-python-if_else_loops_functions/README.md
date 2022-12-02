@@ -1,3 +1,3 @@
-#if/else, loops, functions
+# if/else, loops, functions
 
 laerning all about loop and conditional statement
