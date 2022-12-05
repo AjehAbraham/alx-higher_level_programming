@@ -1,8 +1,8 @@
 # if/else, loops, functions
 
-At the end I was able to learn 
-
-## How to use comments
+##At the end I was able to learn 
+## ----------
+How to use comments
 How to affect values to variables
 How to use the while and for loops
 How is Python’s for different from C‘s?
