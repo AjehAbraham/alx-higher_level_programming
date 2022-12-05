@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for letters in range(97 ,123):
- print("{:d}".format(letters),end='')
+for letters in range(97, 123):
+ print("{:d}".format(letters), end='')
