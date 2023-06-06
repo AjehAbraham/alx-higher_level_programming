@@ -1,1 +1,2 @@
-SELECT name FROM master.dbo.sysdatabases
+-- Lists all databases of my MySQL serve
+SHOW DATABASES
