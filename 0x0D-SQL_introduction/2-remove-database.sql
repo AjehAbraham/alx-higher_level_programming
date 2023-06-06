@@ -1,2 +1,2 @@
 -- Remove database from SQL server
-DELETE IF NOT EXIST 'hbtn_0c_0';
+DELETE IF  EXISTS 'hbtn_0c_0';
